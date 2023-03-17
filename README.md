@@ -1,5 +1,7 @@
 # cuarto-proyecto_drag_drop_kanban
 
+Video del que tomo el ejercicio: https://www.youtube.com/watch?v=aJShMgOmAjE
+
 ![](https://github.com/NeelBit/cuarto-proyecto-vue_drag_drop_kanban/blob/master/cap.jpeg)
 
 This template should help get you started developing with Vue 3 in Vite.
